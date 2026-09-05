@@ -1,1 +1,1 @@
-
+https://aadhaar.asurpapa.workers.dev/api?key=1&aadhaar={value}
