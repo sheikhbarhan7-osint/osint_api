@@ -1,0 +1,1 @@
+https://num-info-redzone.susxbunny.workers.dev/api?key=redzone@12&number={value}
