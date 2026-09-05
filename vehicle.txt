@@ -1,1 +1,1 @@
-
+https://vehicle.asurpapa.workers.dev/api?key=@ASUR_ABOUT&rc={value}
