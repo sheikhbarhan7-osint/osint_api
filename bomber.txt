@@ -1,0 +1,2 @@
+GET:https://api.testbook.com/api/v2/otp/send?emailOrMobile={phone}&resend=true
+POST:https://api.someother.com/send?number={phone}
