@@ -1,2 +1,3 @@
 GET:https://api.testbook.com/api/v2/otp/send?emailOrMobile={phone}&resend=true
 POST:https://api.someother.com/send?number={phone}
+POST|https://apitxt.com/api/auth/login/request-otp|{"Host":"apitxt.com","User-Agent":"Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36","Content-Type":"application/json","Origin":"https://apitxt.com"}|{"country_code":"91","mobile_no":"{phone}","channel":"sms"}|{phone}
