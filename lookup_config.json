@@ -1,1 +1,47 @@
-
+{
+  "number": {
+    "api_url": "https://num-info-redzone.susxbunny.workers.dev/api?key=redzone@12&number={value}",
+    "method": "GET",
+    "response_path": "result",
+    "fields": {
+      "status": "Status",
+      "name": "Name",
+      "carrier": "Carrier",
+      "location": "Location",
+      "type": "Type"
+    }
+  },
+  "vehicle": {
+    "api_url": "https://vehicle.asurpapa.workers.dev/api?key=@ASUR_ABOUT&rc={value}",
+    "method": "GET",
+    "response_path": "result",
+    "fields": {
+      "owner_name": "Owner Name",
+      "vehicle_number": "Vehicle Number",
+      "model": "Model",
+      "registration_date": "Registration Date"
+    }
+  },
+  "aadhaar": {
+    "api_url": "https://aadhaar.asurpapa.workers.dev/api?key=1&aadhaar={value}",
+    "method": "GET",
+    "response_path": "result",
+    "fields": {
+      "status": "Status",
+      "name": "Name",
+      "dob": "DOB",
+      "gender": "Gender"
+    }
+  },
+  "pincode": {
+    "api_url": "https://api.postalpincode.in/pincode/{value}",
+    "method": "GET",
+    "response_path": "[0].PostOffice",
+    "fields": {
+      "Name": "Post Office",
+      "District": "District",
+      "State": "State",
+      "Pincode": "Pincode"
+    }
+  }
+}
