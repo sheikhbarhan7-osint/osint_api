@@ -1,1 +1,1 @@
-https://lynx.mireiariosss.workers.dev/api/chain/{value}
+https://lynx.mireiariosss.workers.dev/api/search/{value}
