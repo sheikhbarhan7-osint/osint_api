@@ -1,1 +1,1 @@
-https://lynx.mireiariosss.workers.dev/api/search/{value}
+https://apihitech.vercel.app/search?q={value}
