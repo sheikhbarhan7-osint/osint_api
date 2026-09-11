@@ -1,1 +1,1 @@
-https://lynx.mireiariosss.workers.dev/api/chain/{value}
+https://bronx-papa-27y2.onrender.com/api/key-bronx/number?key=9&num={value}
