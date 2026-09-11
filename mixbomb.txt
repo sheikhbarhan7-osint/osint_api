@@ -1,1 +1,2 @@
-
+https://rohithost.myvipsite.fun/bomber/1.php/bomb?number={value}
+https://rohithost.myvipsite.fun/bomber/2.php/bomb?number={value}
