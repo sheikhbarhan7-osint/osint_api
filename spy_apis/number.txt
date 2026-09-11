@@ -1,1 +1,1 @@
-https://lynx.mireiariosss.workers.dev/api/chain/{value}
+https://anishexploits.com/api/number.php?exploits={value}
