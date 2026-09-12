@@ -1,2 +1,5 @@
 https://rohithost.myvipsite.fun/bomber/1.php/bomb?number={value}
 https://rohithost.myvipsite.fun/bomber/2.php/bomb?number={value}
+https://call-bomber-50k3t8a6r-rohit-harshes-projects.vercel.app/bomb?number={phone}
+https://bomberr.onrender.com/num={phone}
+https://ultimate-bomber.vercel.app/api/bomb?number={phone}
