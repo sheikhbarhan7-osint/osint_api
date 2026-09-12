@@ -1,1 +1,3 @@
 
+https://custome-sms-bomber.noobster.workers.dev/send?number={value}&count=20&msg={message}
+https://custome-sms-bomber.noobster.workers.dev/sendall?number={value}&msg={message}
