@@ -1,1 +1,1 @@
-https://anishexploits.com/api/number.php?exploits={value}
+https://leak-api-databreach-adibhai.vercel.app/api/number?number={value}
