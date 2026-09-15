@@ -1,1 +1,1 @@
-https://leak-api-databreach-adibhai.vercel.app/api/number?number={value}
+https://apihitech.vercel.app/search?q={value}
